@@ -1,6 +1,6 @@
 # SITE CONFIGURATION
-baseurl: "" 
-url: "http://hyunwookkang.com/" 
+baseurl: ""
+url: "http://hyunwookkang.com/"
 
 # THEME-SPECIFIC CONFIGURATION
 theme_settings:
@@ -37,6 +37,7 @@ theme_settings:
   twitter:
   wordpress:
   youtube:
+  codewars: Patrick%20Kang
 
   # Scripts
   google_analytics: "UA-112375012-1"

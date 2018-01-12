@@ -157,3 +157,11 @@
 	</a>
 </li>
 {% endif %}
+
+{% if site.theme_settings.codewars %}
+<li>
+	<a href="https://www.codewars.com/users/{{ site.theme_settings.codewars }}" title="{{ site.theme_settings.str_follow_on }} Codewars">
+		<i class="fa fa-fw fa-html5"></i>
+	</a>
+</li>
+{% endif %}
