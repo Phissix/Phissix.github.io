@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Bloc Chat
+title: BlocFlix
 thumbnail-path: "img/blocflix.png"
 short-description: BlocFlix is a Netflix replica for finding the best movies and watching them online.
 
